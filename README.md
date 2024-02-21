@@ -1,2 +1,2 @@
-# BackRecord
-一键回录app，保存你的游戏高光时刻
+# VideoRecord
+一个屏幕录制的demo方案，适配安卓11以下
